@@ -30,7 +30,7 @@ function nilai() {
         nilaihuruf="C";
     }
     
-    document.uts.nilai.value=nilaihuruf +" " + "("+nilaiangka+")";
+    document.uts.hasil.value=nilaihuruf +" " + "("+nilaiangka+")";
     
      
     
